@@ -1,0 +1,101 @@
+EmployeeID,FirstName,LastName,Gender,Email,Phone,DateOfBirth,Department,Position,Salary,HireDate
+1,Eric,Guzman,Male,qshelton@yahoo.com,602-770-5338x8453,1980-10-19,Customer Support,Developer,53233.92,2019-06-07
+2,Kenneth,Graham,Male,fwood@lutz.com,752-724-2100,1981-08-21,Finance,Manager,65301.83,2016-05-26
+3,Renee,Hendrix,Female,clinealicia@thompson.net,(332)917-4497,1969-11-29,Customer Support,Developer,61248.82,2016-12-28
+4,Jon,Curtis,Male,cassandrawest@reed.com,001-474-493-8117,1964-01-29,Customer Support,Engineer,112405.32,2015-02-15
+5,Michelle,Harris,Female,joannacarlson@hotmail.com,9052247567,1987-02-13,IT,Executive,75245.89,2015-02-13
+6,Amanda,Moore,Female,sandersfrederick@hotmail.com,(369)122-5075x856,1976-11-20,Finance,Consultant,72714.13,2020-07-09
+7,Steven,Russell,Female,smithjenny@lopez.com,(355)972-3474x23336,1966-06-15,Finance,Assistant,71174.67,2017-01-07
+8,Colleen,Martinez,Male,ibaker@gmail.com,+1-164-045-9895,1993-01-20,IT,Developer,66661.03,2016-01-21
+9,Tina,Mueller,Male,denise97@yahoo.com,915-753-7432x6108,1965-08-08,Marketing,Consultant,72559.77,2023-01-18
+10,James,Peters,Female,robert91@winters.org,(432)697-5906x982,1989-07-03,IT,Analyst,50246.14,2021-11-19
+11,Christine,Rogers,Other,jaredchristian@miller.info,008-192-3194x3843,1978-08-08,Customer Support,Coordinator,52945.94,2017-03-20
+12,Diana,Best,Male,wendyguerra@gmail.com,(340)757-5352x53983,1992-03-05,IT,Executive,69368.12,2016-09-04
+13,Andrea,Andrews,Female,janice81@hotmail.com,577-999-4076,1982-08-05,Marketing,Engineer,111653.73,2024-05-23
+14,John,Johnson,Female,michael16@fernandez-macdonald.com,871.427.6327,1989-01-15,Marketing,Analyst,113291.52,2017-06-27
+15,Jeremy,Park,Female,kentshawn@lucas-lyons.com,749.320.5618x21043,1973-01-05,Finance,Coordinator,118759.28,2017-03-08
+16,Dana,Johnson,Female,scottbrooks@yahoo.com,347.270.1674x82499,1968-01-18,Marketing,Manager,79401.07,2022-11-07
+17,Michael,Frank,Other,baileymiranda@yahoo.com,001-200-011-5573x54296,1981-06-04,Operations,Assistant,98274.08,2023-11-01
+18,Kristy,Garcia,Male,aaronmathews@hotmail.com,(896)216-1584,1983-10-28,Operations,Consultant,43324.8,2018-11-05
+19,Matthew,Anderson,Female,andrewbrock@yahoo.com,984.846.1178x387,2001-03-04,Finance,Consultant,91370.49,2020-10-14
+20,Rebecca,Duran,Male,perrykenneth@yahoo.com,801-734-5036x69220,1974-12-03,IT,Coordinator,57391.39,2024-04-02
+21,Victor,Olsen,Other,sjohnson@hotmail.com,(826)091-8162x282,1986-07-24,IT,Analyst,66659.86,2022-12-12
+22,Tina,Estrada,Other,westmegan@yahoo.com,113-084-7307x913,1990-02-23,Sales,Executive,65119.8,2023-11-30
+23,Michael,Tanner,Other,christopher25@yahoo.com,+1-969-734-8606,1981-05-06,IT,Consultant,116839.71,2024-03-29
+24,Robert,Wright,Other,susan93@lopez.com,710.279.0986x474,2000-12-22,HR,Executive,88499.9,2018-02-04
+25,Emily,Benson,Male,lmartin@hotmail.com,+1-879-649-4327x4091,1976-12-30,IT,Consultant,74862.09,2023-08-25
+26,Alan,Matthews,Female,ssmith@pitts-graham.com,619.266.2685x94521,1977-07-29,HR,Developer,74315.37,2022-04-18
+27,Jonathan,Carey,Female,lisahickman@tran.com,001-455-368-0190,1988-12-25,Marketing,Analyst,97005.84,2017-04-27
+28,Cheryl,Schmidt,Female,sarahortiz@yahoo.com,280-732-6696x33609,1969-01-27,Customer Support,Consultant,75427.85,2015-02-27
+29,Kimberly,Ramirez,Male,megan18@harris.com,+1-115-813-4785x6363,1994-11-02,Customer Support,Coordinator,110554.55,2020-02-20
+30,Timothy,Green,Other,cummingscarly@gmail.com,(746)697-8886x25949,1965-03-03,Customer Support,Executive,44382.47,2021-09-29
+31,Holly,Gordon,Female,kathleengiles@boone.org,001-795-013-8140x79753,1992-12-22,Customer Support,Analyst,45845.53,2023-10-10
+32,Susan,Nguyen,Male,epatterson@johnson-morris.com,5828322054,1998-12-01,Legal,Coordinator,50986.09,2021-05-09
+33,Erica,Moore,Female,karinamyers@hotmail.com,001-256-140-7354,1982-03-27,Customer Support,Executive,70496.42,2020-05-30
+34,David,Meyer,Other,hernandezjeffrey@richards.com,001-566-822-6180,1964-07-11,Operations,Consultant,72383.24,2019-06-27
+35,Leonard,Branch,Other,fbryant@hotmail.com,9124272792,1989-06-01,Finance,Manager,50356.12,2016-01-11
+36,Steven,Jones,Male,jennifer79@gmail.com,263.605.9488x847,1972-08-29,Customer Support,Manager,50304.46,2016-08-21
+37,Gregory,Richardson,Other,rachel49@caldwell.com,(063)670-2094x0299,1981-12-05,Customer Support,Manager,112867.29,2022-01-01
+38,Emily,Jones,Other,butlermaria@walker.org,(110)101-9861,2001-02-10,Marketing,Developer,91762.27,2023-01-21
+39,Christine,Bell,Female,josephparsons@yahoo.com,237.696.9649x85381,1985-05-05,Customer Support,Executive,62293.44,2019-04-09
+40,Jennifer,Dodson,Female,dana77@hotmail.com,603.978.2726x26377,2002-02-04,IT,Engineer,118349.29,2016-05-25
+41,Margaret,English,Male,ebrewer@hotmail.com,001-558-811-8538x27409,1967-05-23,Customer Support,Developer,49686.5,2016-10-05
+42,Jeremy,Harris,Male,robert51@carr.info,001-951-164-4529x52498,1989-11-26,Legal,Assistant,94176.23,2021-10-18
+43,Brandon,Pratt,Female,yaustin@johnson.org,+1-567-142-2207x6119,1980-04-02,IT,Developer,98116.25,2017-06-24
+44,Chase,Smith,Other,williamskristen@knight.org,001-645-148-3529x0962,1991-10-23,Finance,Analyst,118144.97,2024-06-20
+45,Kevin,Palmer,Female,pherrera@carter-robertson.biz,(991)001-1663x61217,1981-11-19,IT,Consultant,92620.25,2023-12-25
+46,Patrick,Davis,Female,whiteashley@gmail.com,544.928.9734,1985-01-15,HR,Coordinator,93277.27,2020-09-19
+47,Daniel,Bridges,Other,mooreeric@yahoo.com,(889)350-9807,1970-06-01,Sales,Analyst,51268.51,2015-06-21
+48,Samuel,Parker,Female,kperez@yahoo.com,001-865-368-0810,1970-02-14,Sales,Analyst,79198.44,2023-04-07
+49,Steven,Ruiz,Male,matthewbrooks@grimes.com,(351)687-0910,1969-06-24,HR,Developer,86798.3,2017-07-03
+50,Robert,Kerr,Female,thughes@mcguire-ingram.net,217-603-9356x60720,1991-06-03,HR,Executive,47181.67,2020-11-28
+51,Melissa,Peters,Male,danny17@yahoo.com,6088332152,1972-04-07,Finance,Analyst,87293.8,2019-06-20
+52,Marcus,Sullivan,Male,nthompson@gmail.com,509.153.7605x659,2002-06-21,Sales,Consultant,40095.79,2018-04-06
+53,Samantha,Conner,Other,xgonzalez@myers.com,594-619-2100,1996-07-10,Legal,Executive,93803.06,2022-11-22
+54,Michael,Johnson,Female,jared17@yahoo.com,+1-638-716-7524,2001-11-28,Sales,Analyst,90311.1,2022-01-12
+55,Matthew,Gaines,Male,lawsonangela@collier.net,079-719-0483,1976-05-19,Finance,Analyst,79172.54,2021-12-07
+56,Anne,Green,Other,maria29@gmail.com,(449)448-0477,1973-07-14,Marketing,Manager,52103.03,2023-04-29
+57,Tanya,Day,Male,stevenslaura@hotmail.com,(299)631-9167x782,2001-03-15,Sales,Engineer,95557.73,2015-06-29
+58,Katelyn,Cook,Other,arthurkelly@yahoo.com,552.872.6975x46607,1965-09-01,Marketing,Engineer,44717.65,2016-07-17
+59,Maria,Parker,Male,jessica72@hernandez.net,001-941-058-1285,1994-10-09,Legal,Executive,78479.76,2021-03-15
+60,Andrew,Phelps,Female,omoore@gmail.com,966-249-6760,1987-09-17,IT,Developer,54739.85,2015-06-27
+61,Scott,Moreno,Female,torresluis@jones-garcia.com,4892665039,1980-09-17,Sales,Manager,52290.26,2015-08-21
+62,James,Carroll,Other,ibates@gutierrez-massey.com,(554)103-0526x06582,1967-12-25,Operations,Engineer,63681.87,2020-11-11
+63,Amanda,White,Other,erin38@yahoo.com,+1-216-564-7673,2002-01-03,Legal,Analyst,44321.74,2018-01-05
+64,Hector,Brown,Female,laurajohnson@lynch.com,(346)429-3288x2214,1970-09-24,Operations,Analyst,66063.45,2018-09-02
+65,Andrea,Cardenas,Female,garrettharvey@miller-graves.com,001-988-236-0157x669,1963-11-30,Sales,Executive,90520.15,2015-09-15
+66,Jonathan,Sanders,Male,dawn32@torres.net,370-214-0089x158,1964-01-06,Customer Support,Coordinator,119406.27,2023-04-13
+67,Christina,Hughes,Female,vangashley@gmail.com,001-549-522-8099x747,1966-07-21,Customer Support,Analyst,41737.69,2024-03-04
+68,Diana,Green,Other,raykaren@davis-morales.com,+1-210-829-8688x03937,1984-03-19,Sales,Consultant,109405.62,2021-08-12
+69,Yolanda,Mcdaniel,Female,alisha72@mclaughlin.net,193-004-3601x6881,1990-10-04,HR,Executive,70236.57,2017-01-06
+70,Lauren,Parker,Male,zford@gmail.com,817.148.2763x41138,1994-04-17,Customer Support,Coordinator,91962.5,2021-02-13
+71,Crystal,Steele,Female,dillonyoung@smith.com,+1-692-705-1984x9887,1973-03-03,Legal,Assistant,45707.05,2022-11-10
+72,Michelle,Wise,Other,mckeejane@yahoo.com,+1-095-202-4817x055,1999-03-21,HR,Assistant,67383.08,2019-07-28
+73,Kim,Johnson,Other,kyle67@gmail.com,651-414-4834x0447,1999-06-27,Finance,Analyst,71417.04,2020-11-06
+74,Jill,Mccarthy,Male,qcain@hotmail.com,641.168.4624x437,1967-09-11,Finance,Developer,60375.05,2020-02-12
+75,Michelle,Miller,Female,grosstyler@brown.info,742-469-1515,1996-10-15,Sales,Consultant,67333.38,2018-07-15
+76,Nicole,Ibarra,Female,lindaschmidt@hotmail.com,+1-982-990-1917x53604,1983-11-02,HR,Assistant,92239.05,2017-12-28
+77,Joshua,Morales,Male,usnyder@yahoo.com,087.010.7081x680,1993-07-28,Marketing,Analyst,68165.28,2024-04-15
+78,Preston,Lopez,Male,courtneyholmes@mendez.com,231-473-0568,1981-09-03,Marketing,Coordinator,81129.33,2015-07-07
+79,Rachel,Wallace,Other,jodi68@hotmail.com,971-858-7973,1966-08-05,HR,Consultant,43197.75,2016-02-03
+80,Travis,Patton,Other,arianawise@campbell.net,(409)349-5141x01930,1976-01-04,Customer Support,Coordinator,67639.17,2020-03-14
+81,Seth,Anderson,Other,vyang@yahoo.com,+1-513-909-2391,1990-04-24,Operations,Coordinator,114234.03,2017-09-14
+82,Lisa,Perez,Other,robertbell@carpenter.com,783-746-1474x45966,1978-09-21,Operations,Executive,76362.71,2019-08-19
+83,Angela,Brown,Other,wigginsnathaniel@lewis.com,531-386-6855,1989-11-16,Sales,Coordinator,53370.27,2018-11-25
+84,Joseph,Richards,Other,cstone@hotmail.com,(692)905-5195x9960,1980-06-14,Operations,Coordinator,102841.1,2018-05-27
+85,Jessica,Hunt,Male,dsmith@clark.net,(609)895-2710x861,1996-04-17,Legal,Executive,48755.79,2017-06-20
+86,David,Rodriguez,Other,wavila@morrison-moore.com,(522)224-5225,1970-01-21,Customer Support,Assistant,110325.28,2024-03-02
+87,Joseph,James,Female,levans@nolan.biz,001-207-941-2722x1152,1993-12-11,Sales,Analyst,81822.39,2016-10-05
+88,Shane,Bell,Female,alexandramathews@conley.com,001-283-364-5021x2042,1970-03-26,Marketing,Developer,53382.92,2018-11-30
+89,Ryan,Ramirez,Female,heidisimmons@perry.com,572-698-1081x51095,1966-04-06,IT,Assistant,83831.43,2020-06-04
+90,Carol,Murphy,Male,calebmartinez@brown-cabrera.biz,+1-263-658-3926,1996-03-22,Legal,Assistant,45448.0,2023-11-27
+91,Cody,Fernandez,Other,wagnercarrie@yahoo.com,746-995-6725x6332,1979-09-25,IT,Executive,48389.89,2019-10-15
+92,Andrew,Mcdonald,Male,cryan@gmail.com,393.133.7893x5257,1983-04-15,Finance,Analyst,69487.64,2017-08-16
+93,Todd,Bryant,Female,khaas@hotmail.com,001-191-295-9457x578,1973-05-25,HR,Manager,46112.39,2024-03-16
+94,Travis,Marshall,Other,jennifer22@gmail.com,(054)892-8385x158,1980-02-17,HR,Manager,48701.64,2022-05-14
+95,Gabriel,Austin,Other,thomas12@smith-andrade.com,6918598184,2000-08-26,IT,Developer,80311.64,2019-10-22
+96,Anthony,Carr,Other,matthew43@hotmail.com,5334510340,2000-11-10,Sales,Engineer,58246.58,2015-03-11
+97,Kimberly,Stevens,Female,nathangriffin@webb-david.info,083-646-8989x5290,2001-05-23,Marketing,Coordinator,53399.28,2015-04-25
+98,Dan,Cole,Male,evanssusan@gmail.com,001-434-455-0516x808,1967-07-28,Customer Support,Developer,46361.76,2015-12-29
+99,Miranda,Daniels,Female,sberry@lucas.biz,805-269-8837x5422,1968-10-21,Legal,Consultant,109108.3,2023-12-02
+100,David,Hammond,Other,daniel45@stephens.biz,001-827-420-0810x057,1970-12-05,Finance,Manager,99458.56,2023-03-16
